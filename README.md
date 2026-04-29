@@ -1,22 +1,87 @@
-<h1 align="center">Hi 👋, I'm khaouas Tareq</h1>
-<h3 align="center">Software Developer | App Developer | Blockchain Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Khaouas+Tareq;Mobile+Solutions+Architect;Clean+Architecture+Expert;Blockchain+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqkh02&label=Profile%20views&color=0e75b6&style=flat" alt="tareqkh02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareqkh02" alt="tareqkh02" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khaouas-tareq-a65350259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaouas-tareq-a65350259" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tareqkh02&label=Profile%20Views&color=2196F3&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/tareqkh02?label=Followers&style=flat-square&color=2196F3" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareqkh02&show_icons=true&locale=en&layout=compact" alt="tareqkh02" /></p>
+### 📱 Mobile Application Developer
+I specialize in building robust, scalable, and maintainable mobile applications. My core philosophy is centered around **Clean Architecture** and **SOLID principles** to ensure code quality and long-term project success.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareqkh02&show_icons=true&locale=en" alt="tareqkh02" /></p>
+- 🛠️ **Architecture:** Domain-Driven Design (DDD), Clean Architecture, MVVM / BLoC.
+- 🔗 **Blockchain:** Developing dApps and integrating Web3 with Mobile ecosystems.
+- 🚀 **Current Focus:** Optimizing app performance and reactive programming.
+- 🧩 **Mindset:** Writing testable code and building reusable components.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqkh02&" alt="tareqkh02" /></p>
+---
+
+### 💻 Tech Stack & Architecture Tools
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />
+      <br>Android Native
+    </td>
+     <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+      <br>Git Control
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+      <br>Local DB
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+      <br>UI/UX Design
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br>Linux OS
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Architecture Mastery
+```kotlin
+// My approach to every project
+CleanArchitecture {
+   DataLayer -> Repositories & DataSources
+   DomainLayer -> Entities & UseCases
+   PresentationLayer -> BLoC / Providers / UI
+}
