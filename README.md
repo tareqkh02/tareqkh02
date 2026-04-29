@@ -10,15 +10,33 @@
 ---
 
 ### 📱 Mobile Application Developer
-I specialize in building robust, scalable, and maintainable mobile applications. My core philosophy is centered around **Clean Architecture** and **SOLID principles** to ensure code quality and long-term project success.
+I specialize in building robust, scalable, and maintainable mobile applications using **Clean Architecture**.
 
 - 🛠️ **Architecture:** Domain-Driven Design (DDD), Clean Architecture, MVVM / BLoC.
-- 🔗 **Blockchain:** Developing dApps and integrating Web3 with Mobile ecosystems.
-- 🚀 **Current Focus:** Optimizing app performance and reactive programming.
-- 🧩 **Mindset:** Writing testable code and building reusable components.
+- 🔗 **Blockchain:** Developing dApps and Smart Contracts.
+- 🚀 **2026 Focus:** High-frequency development and Web3 integration.
 
 ---
 
+### 📊 2026 Activity & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tareqkh02&theme=github-compact&area=true&hide_border=true&color=2196F3" width="100%" />
+</p>
+
+---
+
+### 🏢 Current Collaborations
+I am actively contributing to:
+- **LANOVATIC:** Working on `Darna-app`.
+- **montaja3OS:** Developing `mono_os_app` and `iot_service`.
+- **inboundr:** Smart contract development.
+
+---
 ### 💻 Tech Stack & Architecture Tools
 <table align="center">
   <tr>
