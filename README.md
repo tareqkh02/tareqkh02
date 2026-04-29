@@ -20,8 +20,8 @@ I specialize in building robust, scalable, and maintainable mobile applications 
 
 ### 📊 2026 Activity & Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-wine-nu.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-wine-nu.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3&count_private=true" alt="Top Languages" />
+  <img width="48%" src="[https://github-readme-stats-wine-nu.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&count_private=true&include_all_commits=true](https://github-readme-stats-wine-nu.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&count_private=true&include_all_commits=true)" alt="GitHub Stats" />
+  <img width="48%" src="[https://github-readme-stats-wine-nu.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&count_private=true](https://github-readme-stats-wine-nu.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&count_private=true)" alt="Top Languages" />
 </p>
 
 <p align="center">
