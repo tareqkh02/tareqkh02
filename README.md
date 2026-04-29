@@ -69,19 +69,23 @@ I specialize in building robust, scalable, and maintainable mobile applications.
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Full Engineering Stats (Inc. Private Repos)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tareqkh02&show_icons=true&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqkh02&layout=compact&theme=calm&hide_border=true&title_color=2196F3&icon_color=2196F3&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareqkh02&theme=calm&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="Streak Stats" width="100%" />
 </p>
 
 ---
 
 ### 🛠️ Architecture Mastery
 ```kotlin
-// My approach to every project
+// Scalable Mobile Architecture Pattern
 CleanArchitecture {
-   DataLayer -> Repositories & DataSources
-   DomainLayer -> Entities & UseCases
-   PresentationLayer -> BLoC / Providers / UI
+   DataLayer -> { Repositories, DataSources, DTOs }
+   DomainLayer -> { Entities, UseCases, Failures }
+   PresentationLayer -> { BLoC / Providers, Pages, Widgets }
 }
