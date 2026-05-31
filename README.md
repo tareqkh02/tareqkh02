@@ -14,7 +14,7 @@ I specialize in building robust, scalable, and maintainable mobile applications 
 
 - 🛠️ **Architecture:** Domain-Driven Design (DDD), Clean Architecture, MVVM / BLoC.
 - 🔗 **Blockchain:** Developing dApps and Smart Contracts.
-- 🚀 **2026 Focus:** High-frequency development and Web3 integration.
+- 🚀 **2026 Focus:** Scaling complex systems, advancing in Software Architecture, and bridging the gap between IoT and Mobile solutions.
 
 ---
 
@@ -37,6 +37,7 @@ I am actively contributing to:
 - **inboundr:** Smart contract development.
 
 ---
+
 ### 💻 Tech Stack & Architecture Tools
 <table align="center">
   <tr>
@@ -100,10 +101,11 @@ I am actively contributing to:
 ---
 
 ### 🛠️ Architecture Mastery
-```kotlin
-// Scalable Mobile Architecture Pattern
-CleanArchitecture {
-   DataLayer -> { Repositories, DataSources, DTOs }
-   DomainLayer -> { Entities, UseCases, Failures }
-   PresentationLayer -> { BLoC / Providers, Pages, Widgets }
+```dart
+class CleanArchitecture {
+  final DataLayer data;
+  final DomainLayer domain;
+  final PresentationLayer presentation;
+
+  const CleanArchitecture(this.data, this.domain, this.presentation);
 }
